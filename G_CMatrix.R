@@ -1,5 +1,5 @@
 ##This program will solve for the inverse of a matrix.
-##It involves two functions which are CMC (Cache Matrix Creator) and CS (Cache Solve)
+##It involves two functions which are Make Cache Matrix and cache Solve
 
 makeCacheMatrix <- function(q = matrix()) {
   imbers <- NULL
